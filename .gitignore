@@ -1,0 +1,9 @@
+*~
+*.js
+!webpack.config.js
+*.map
+dist
+.idea
+.DS_Store
+node_modules
+
